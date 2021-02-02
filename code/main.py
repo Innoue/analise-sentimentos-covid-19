@@ -4,10 +4,10 @@ import csv
 from twarc import Twarc
 
 #Chaves usadas para a API
-consumer_key='IMJh4kjQLGDzUaT9t1v0RXm5Y'
-consumer_secret='cjt9d684CpvElXof1BxUMgSakNnFBVLDweQTSpGZolzzrnU8JE'
-access_token='968521944944529408-oI5NcJVaZellwrsPjhsQkQPDeAZJzKf'
-access_token_secret='hc7bTI65fG97smD3ZEB6iCjLrBzHBxn2Sp6TIaX8fZSJZ'
+consumer_key='xxxxxxxxxx'
+consumer_secret='xxxxxxxxxx'
+access_token='xxxxxxxxxx'
+access_token_secret='xxxxxxxxxx'
 
 #Criacao do objeto para hidratar os dados
 t = Twarc(consumer_key, consumer_secret, access_token, access_token_secret)
